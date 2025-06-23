@@ -1,6 +1,6 @@
 # thesis-masds
 
-This repository contains code for my Master's thesis "Predicting New York Times Bestselling Fiction Books Using Text & Image-Based Machine Learning." My published thesis can be found here: https://escholarship.org/uc/item/87c0s4wf
+This repository contains code for my Master's thesis "Predicting New York Times Bestselling Fiction Books Using Text & Image-Based Machine Learning." My published thesis can be found [here.](https://escholarship.org/uc/item/87c0s4wf)
 
 The folder containing the data (tabular dataset and book cover images) can be found [here.](https://drive.google.com/drive/folders/1wecYWbD47ycbEK8nYZGCQporMWePNGSv?usp=share_link)
 
