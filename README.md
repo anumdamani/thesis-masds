@@ -2,8 +2,7 @@
 
 This repository contains code for my Master's thesis "Predicting New York Times Bestselling Fiction Books Using Text & Image-Based Machine Learning." My published thesis can be found here: https://escholarship.org/uc/item/87c0s4wf
 
-Dataset Link (for both tabular dataset and book cover images): [
-](https://drive.google.com/drive/folders/1wecYWbD47ycbEK8nYZGCQporMWePNGSv?usp=share_link)
+The folder containing the data (tabular dataset and book cover images) can be found [here.](https://drive.google.com/drive/folders/1wecYWbD47ycbEK8nYZGCQporMWePNGSv?usp=share_link)
 
 This repository contains the following .ipynb files:
 - **EDA.ipynb** - This file contains code for exploratory data analysis.
