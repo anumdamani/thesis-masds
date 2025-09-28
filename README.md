@@ -2,7 +2,9 @@
 
 This repository contains code for my UCLA Master's thesis "Predicting New York Times Bestselling Fiction Books Using Text & Image-Based Machine Learning." My published thesis can be found [here.](https://escholarship.org/uc/item/87c0s4wf)
 
-The Google Drive folder containing the data (tabular dataset and book cover images) can be found [here.](https://drive.google.com/drive/folders/1wecYWbD47ycbEK8nYZGCQporMWePNGSv?usp=share_link)
+The Google Drive folder containing the data (cleaned tabular dataset and book cover images) can be found [here.](https://drive.google.com/drive/folders/1wecYWbD47ycbEK8nYZGCQporMWePNGSv?usp=share_link)
+
+Data collection and cleaning methodology is documented in detail in published thesis paper. The cleaned datasets are provided in this repository for reproducibility of analyses and models.
 
 This repository contains the following .ipynb files:
 - **EDA.ipynb** - This file contains code for exploratory data analysis.
